@@ -1,0 +1,13 @@
+
+{
+  "name": "kn-real-life-bot",
+  "version": "1.0.0",
+  "description": "KN Real Life RP Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
